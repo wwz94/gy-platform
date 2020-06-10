@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gy-activiti" />
+        <module name="gy-auth" />
+        <module name="gy-common-auth" />
+        <module name="gy-common-captcha" />
+        <module name="gy-common-core" />
+        <module name="gy-common-log" />
+        <module name="gy-common-redis" />
+        <module name="gy-common-swagger" />
+        <module name="gy-config" />
+        <module name="gy-dfs" />
+        <module name="gy-eureka" />
+        <module name="gy-gateway" />
+        <module name="gy-gen" />
+        <module name="gy-monitor" />
+        <module name="gy-system" />
+        <module name="gy-system-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ruoyi-activiti" target="1.8" />
+      <module name="ruoyi-auth" target="1.8" />
+      <module name="ruoyi-dfs" target="1.8" />
+      <module name="ruoyi-gen" target="1.8" />
+      <module name="ruoyi-monitor" target="1.8" />
+      <module name="ruoyi-system" target="1.8" />
+      <module name="ruoyi-system-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

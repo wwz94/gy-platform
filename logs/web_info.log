@@ -1,0 +1,8 @@
+2020-06-10 15:02:06.166 [restartedMain] INFO  com.gy.GySystemApp -
+				The following profiles are active: prod
+2020-06-10 15:02:09.032 [restartedMain] INFO  io.undertow.servlet -
+				Initializing Spring embedded WebApplicationContext
+2020-06-10 15:02:09.151 [restartedMain] INFO  com.netflix.config.sources.URLConfigurationSource -
+				To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-06-10 15:02:09.161 [restartedMain] INFO  com.netflix.config.DynamicPropertyFactory -
+				DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@2f2afcf
