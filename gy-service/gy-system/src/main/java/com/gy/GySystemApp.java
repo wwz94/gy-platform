@@ -22,7 +22,7 @@ public class GySystemApp
 {
     public static void main(String[] args)
     {
-        // System.setProperty("spring.devtools.restart.enabled", "false");11
+        // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(GySystemApp.class, args);
     }
 }
